@@ -1,0 +1,16 @@
+/* Set the background color of the entire page */
+body {
+    background-color: lightblue;
+}
+
+/* Style all <h2> elements */
+h2 {
+    color: green;          /* Text color is green */
+    text-decoration: underline;  /* Underline the text */
+}
+
+/* Style all <p> elements */
+p {
+    font-size: 18px;       /* Set font size to 18px */
+    color: darkgray;       /* Set text color to dark gray */
+}

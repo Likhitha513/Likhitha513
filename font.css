@@ -1,0 +1,11 @@
+/* Style for the paragraph with the .highlight class */
+.highlight {
+    font-weight: bold;      /* Make text bold */
+    color: red;             /* Set text color to red */
+}
+
+/* Style for the heading with the #special ID */
+#special {
+    background-color: yellow; /* Set background color to yellow */
+    text-align: center;       /* Center the heading text */
+}
